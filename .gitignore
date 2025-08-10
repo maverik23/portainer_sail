@@ -1,0 +1,5 @@
+mysql_data/
+phpmyadmin_data/
+minio_data/
+vendor/
+node_modules/

@@ -1,0 +1,11 @@
+# .env
+MYSQL_ROOT_PASSWORD=password
+MYSQL_DATABASE=sail
+MYSQL_USER=sail
+MYSQL_PASSWORD=password
+
+PMA_USER=sail
+PMA_PASSWORD=password
+
+MINIO_ROOT_USER=sail
+MINIO_ROOT_PASSWORD=password
